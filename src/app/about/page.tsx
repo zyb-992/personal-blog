@@ -22,7 +22,7 @@ export default function AboutPage() {
                     <li><strong>Deployment</strong>: Cloudflare Pages</li>
                 </ul>
                 <p>
-                    Feel free to reach out to me on <a href="https://github.com/zhengyb" target="_blank" rel="noreferrer">GitHub</a>.
+                    Feel free to reach out to me on <a href="https://github.com/zyb-992" target="_blank" rel="noreferrer">GitHub</a>.
                 </p>
             </div>
         </section>

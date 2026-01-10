@@ -20,7 +20,7 @@ export function Header() {
                 </div>
                 <div className="flex items-center gap-4">
                     <Link
-                        href="https://github.com/zhengyb"
+                        href="https://github.com/zyb-992"
                         target="_blank"
                         rel="noreferrer"
                         className="text-muted-foreground transition-colors hover:text-foreground"
